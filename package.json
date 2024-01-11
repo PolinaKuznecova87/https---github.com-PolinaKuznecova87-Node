@@ -1,0 +1,19 @@
+{
+  "name": "fale-one",
+  "version": "1.0.0",
+  "description": "Node for VS code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolinaKuznecova87/Node.git"
+  },
+  "author": "\"Polina Kuznecova\",",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolinaKuznecova87/Node/issues"
+  },
+  "homepage": "https://github.com/PolinaKuznecova87/Node#readme"
+}
