@@ -4,7 +4,7 @@
   "description": "Node for VS code",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1t"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/PolinaKuznecova87/Node/issues"
   },
-  "homepage": "https://github.com/PolinaKuznecova87/Node#readme"
+  "homepage": "https://github.com/PolinaKuznecova87/Node#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  },
+  "dependencies": {
+    "beautify": "^0.0.8",
+    "prettier": "^3.2.2"
+  }
 }
